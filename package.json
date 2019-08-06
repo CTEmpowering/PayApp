@@ -29,7 +29,7 @@
     "rxjs": "6.0.0",
     "serve": "^11.1.0",
     "typescript": "~2.7.2",
-    "zone.js": "^0.8.29"
+    "zone.js": "^0.8.29",
     "@angular/http": "^6.0.0",
     "@angular/platform-browser": "^6.0.0",
     "@angular/platform-browser-dynamic": "^6.0.0",
